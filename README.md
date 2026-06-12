@@ -1,4 +1,4 @@
-# SBA 320 - Two Page React Application
+# React_News_App - Two Page React Application
 
 This News Application is a dynamic React-based single page web application that provides the latest news from many different sources and new ones are added throughout the day. You can browse news articles that are placed on a card format. Each card has a headline, description, and image. If the article does not come with an image then I have a placeholder image to take its place. Clicking on a card brings you to the article page which is a view of the article, that has a link if you want to continue to the full story.
 
